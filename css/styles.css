@@ -13,6 +13,10 @@ h3 {
   color: blue;
 }
 
+figcaption {
+  text-align: center;
+}
+
 .center {
   display: block;
   margin-left: auto;
