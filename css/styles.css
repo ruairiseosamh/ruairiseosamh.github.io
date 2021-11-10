@@ -17,6 +17,10 @@ figcaption {
   text-align: center;
 }
 
+div.center {
+  text-align: center;
+}
+
 .center {
   display: block;
   margin-left: auto;
